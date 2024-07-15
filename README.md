@@ -17,7 +17,7 @@ To get started with this lab, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Generative-AI-with-Large-Language-Models.git
+   git clone https://github.com/azaynul10/Generative-AI-with-Large-Language-Models.git
    ```
 2. Navigate to the project directory:
    ```bash
