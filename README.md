@@ -9,7 +9,6 @@ Welcome to the Dialogue Summarization Lab, part of the "Generative AI with Large
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
-- [Badges](#badges)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
@@ -17,11 +16,11 @@ To get started with this lab, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/azaynul10/Generative-AI-with-Large-Language-Models.git
+   git clone https://github.com/azaynul10/generative-ai-llm-dialogue-summarization.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Generative-AI-with-Large-Language-Models
+   cd generative-ai-llm-dialogue-summarization
    ```
 3. Install the required dependencies:
    ```bash
@@ -57,10 +56,10 @@ We welcome contributions to improve this lab! Here's how you can help:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Badges
-Python
-Contributions welcome
-License
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![giphy (8)](https://github.com/user-attachments/assets/b5b5ac0a-796a-46af-8051-b0532db0a2c2)
+
+
 
 ## Acknowledgements
 - AWS and DeepLearning.AI for creating this insightful course
